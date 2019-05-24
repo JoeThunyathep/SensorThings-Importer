@@ -6,7 +6,7 @@ A simple tool to upload CSV data to the SensorThingsAPI
 * Python 3.7++
 
 ## How to use?
-* Set the SensorThings Observation URL in the Post.py 
+* Set the SensorThings Observation URL in the `Post.py`
 ```python
 STA_Endpoint = "http://xxx/xxx/v1.0/Observations"
 ```

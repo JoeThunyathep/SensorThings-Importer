@@ -10,7 +10,7 @@ A simple tool to upload CSV data to the SensorThingsAPI
 ```python
 STA_Endpoint = "http://xxx/xxx/v1.0/Observations"
 ```
-* prepare your CSV structure based on the [sample](csv_data\sample.csv) csv file.
+* prepare your CSV structure based on the [sample](csv_data/sample.csv) csv file.
 * Run 
 ```
 python Post.py

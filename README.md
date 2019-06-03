@@ -1,5 +1,5 @@
-# CSV2STA
-A simple tool to upload CSV data to the SensorThingsAPI
+# SensorThings-Importer
+For users who are new to SensorThings API standard, this tool comes to help for importing the data from several format such as CSV, JSON, XLS, GPX to the SensorThingsAPI database. Enjoy SensorThings.
 
 ## Prerequisites
 * SensorThings Server
